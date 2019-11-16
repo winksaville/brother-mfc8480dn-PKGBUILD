@@ -11,10 +11,14 @@ General Printing dependencies I installed:
 - sudo pacman -S namcap
 
 
-To install this driver:
+Install this driver:
 - clone this repo
 - makepkg
 - sudo pacman -U brother-mfc8480dn-3.1.0-1-x86_64.pkg.tar.x
+
+See more instructions [here](https://docs.google.com/document/d/1POBnoKZA2w1ykfC3nLjXMFdaPHg1AjWrkCXMlp2ONzE/edit?usp=sharing)
+
+# Some old instructions:
 
 After installing using pacman -U I could add the printer using (localhost:631)[http://localhost:631]. After
 doing that the printer would show up but nothing could be printed.
