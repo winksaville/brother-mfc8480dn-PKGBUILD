@@ -1,5 +1,5 @@
 # brother-mfc8480dn-PKGBUILD
-This is a slight modification for the (dcp7065dn)[https://aur.archlinux.org/packages/brother-dcp7065dn/].
+This is a slight modification for the [dcp7065dn](https://aur.archlinux.org/packages/brother-dcp7065dn/).
 Basically just changing the dcp7065 text to mfc8480.
 
 General Printing dependencies I installed:
@@ -20,7 +20,7 @@ See more instructions [here](https://docs.google.com/document/d/1POBnoKZA2w1ykfC
 
 # Some old instructions:
 
-After installing using pacman -U I could add the printer using (localhost:631)[http://localhost:631]. After
+After installing using pacman -U I could add the printer using [localhost:631](http://localhost:631). After
 doing that the printer would show up but nothing could be printed.
 
 Eventually I stumbled on "Avahi Zeroconf Browser" and it shows 3 instances of the printer and I saw what
